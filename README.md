@@ -1,2 +1,1 @@
-# Basic-SIMON-game
-description.......
+This is very short Simon Game.
